@@ -32,5 +32,6 @@ I am a backend-leaning Software Engineer with professional experience building h
 ### 📬 Connect with me
 
 * **LinkedIn:** [linkedin.com/in/amelia-shengaout](https://linkedin.com/in/amelia-shengaout-4020301a7/).
+* **Resume:** [View My Resume](./Amelia%Shengaout%Resume.pdf) 
 * **Email:** ameliaashengaout@gmail.com.
 * **Status:** U.S. Citizen.
