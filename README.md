@@ -114,13 +114,4 @@ Investigating whether artificial latency encoding can bridge the accuracy gap be
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashengaout&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Amelia's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashengaout&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="160"/>
-</p>
-
----
-
 *Open to backend engineering, ML engineering, and research roles. Feel free to reach out!*
