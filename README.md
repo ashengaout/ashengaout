@@ -58,7 +58,7 @@ I am a backend-leaning Software Engineer with professional experience building h
 - Designed and implemented the React frontend, integrated it with a Spring Boot backend, and architected SQL database schemas
 - Ensured robust version control and collaboration using Bitbucket, Confluence, and Jira
 
-**Graduate Teaching Assistant — Georgia State University** `Aug 2025 – Present · Atlanta, GA`
+**Graduate Teaching Assistant — Georgia State University** `Aug 2025 – May 2026 · Atlanta, GA`
 - Provided technical code reviews for 100+ Data Structures students
 - Evaluated semester-long software engineering projects for 17 teams
 
