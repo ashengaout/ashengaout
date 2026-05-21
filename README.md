@@ -39,9 +39,7 @@ I am a backend-leaning Software Engineer with professional experience building h
 **Cloud & Tools**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat&logo=amazons3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -50,6 +48,10 @@ I am a backend-leaning Software Engineer with professional experience building h
 ---
 
 ## Experience
+
+**Software Developer — 1st Care Management** `April 2026 – Present · Atlanta, GA`
+- Provisioned and configured full Azure cloud infrastructure (App Service, SQL Database, Data Factory, Logic Apps, Entra ID) across dev/QA/prod environments.
+- Designing and building full-stack healthcare scheduling and QA platform using Django, Spring Boot, and React.
 
 **Software Developer — InsuraPro** `May 2023 – Jan 2025 · Roswell, GA`
 - Developed the client-side of a high-scale Guidewire PolicyCenter product for Pricing Departments
