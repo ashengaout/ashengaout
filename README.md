@@ -6,7 +6,7 @@ Software Engineer and MSCS student specializing in backend architecture, databas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amelia%20Shengaout-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amelia-shengaout-4020301a7/)
 [![Email](https://img.shields.io/badge/Email-ameliaashengaout%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ameliaashengaout@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=flat&logo=googledrive&logoColor=white)](./Amelia%20Shengaout.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=flat&logo=googledrive&logoColor=white)](./Amelia%20Shengaout%20Resume.pdf)
 ![US Citizen](https://img.shields.io/badge/Status-U.S.%20Citizen-brightgreen?style=flat)
 ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-lightgrey?style=flat)
 
