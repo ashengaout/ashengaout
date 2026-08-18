@@ -1,12 +1,12 @@
 # Hi, I'm Amelia Shengaout 👋
 
-**Backend Software Engineer · Incoming OMSCS @ Georgia Tech**
+**Backend Software Engineer · OMSCS @ Georgia Tech**
 
 Software Engineer and MSCS student specializing in backend architecture, database design, and cloud infrastructure. Experienced in building full-stack platforms, engineering core business logic, and deploying secure enterprise data pipelines within the healthcare and insurance sectors.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amelia%20Shengaout-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amelia-shengaout-4020301a7/)
 [![Email](https://img.shields.io/badge/Email-ameliaashengaout%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ameliaashengaout@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=flat&logo=googledrive&logoColor=white)](./Amelia%20Shengaout%20Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=flat&logo=googledrive&logoColor=white)](./Amelia_Shengaout_Resume.pdf)
 ![US Citizen](https://img.shields.io/badge/Status-U.S.%20Citizen-brightgreen?style=flat)
 ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Russian-lightgrey?style=flat)
 
@@ -40,6 +40,8 @@ Software Engineer and MSCS student specializing in backend architecture, databas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-202020?style=flat)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -57,17 +59,19 @@ Software Engineer and MSCS student specializing in backend architecture, databas
 ## Professional Experience
 
 **Software Developer — 1st Care Management** `April 2026 – Present · Atlanta, GA`
-- Architected and deployed the full Azure cloud infrastructure (App Service, SQL Database, Data Factory, Logic Apps, Entra ID) from scratch across dev, QA, and prod environments.
-- Designed and built data pipelines using Azure Data Factory to automate healthcare data workflows, replacing fragmented manual spreadsheets with a structured cloud system.
-- Developing the backend services and system architecture for a full-stack healthcare scheduling and QA platform.
+- Sole backend developer owning Azure cloud infrastructure end-to-end (App Service, SQL Database, Data Factory) across dev, QA, and production environments.
+- Own DevOps practices and CI/CD pipelines using Azure DevOps Pipelines and GitHub Actions.
+- Built automated data pipelines using Azure Data Factory to ingest daily eClinicalWorks (eCW) EHR reports, replacing manual spreadsheet processes and supporting 12,000+ patient records.
+- Architected and shipped a full-stack healthcare scheduling and QA platform used by 29 active staff, owning backend services, database design, and system architecture end-to-end.
 
 **Software Developer — InsuraPro** `May 2023 – Jan 2025 · Roswell, GA`
 - Engineered the core backend business logic and built Spring Boot API endpoints to handle complex data exchange for a high-scale Guidewire PolicyCenter (PC) pricing product.
 - Architected and designed relational SQL database schemas to support new product features, data persistence, and backend integrations.
 - Ensured robust version control, sprint-tracking, and documentation using Bitbucket, Confluence, and Jira.
 
-**Graduate Teaching Assistant — Georgia State University** `Aug 2025 – May 2026 · Atlanta, GA`
-- Provided technical code reviews for 100+ Data Structures students and evaluated semester-long software engineering projects for 17 teams.
+**Graduate Teaching Assistant — Georgia State University** `Aug 2025 – Present · Atlanta, GA`
+- Currently TA for Software Engineering (60 students): grade sprint-based semester projects by reviewing student tasks and GitHub contributions, assess software interview homework (HackerRank and LeetCode problems), and evaluate supplemental assignments on resume writing and skill-building.
+- Previously TA for Data Structures (100+ students): graded exams and Python assignments and provided written feedback on students' code and technical understanding.
 
 **Undergraduate Research Assistant — Kennesaw State University** `Jan 2022 – May 2023 · Kennesaw, GA`
 - Performed phosphorus NMR research on prebiotic chemical evolution while mentoring 5 students in standardized lab protocols and scientific workflows.
@@ -102,6 +106,5 @@ Mobile app enabling users to record short videos and generate shareable 3D model
 | Degree | Institution | Details |
 |--------|-------------|---------|
 | **M.S. Computer Science (OMSCS)** | Georgia Institute of Technology | Admitted Fall 2026 · Expected May 2028 |
-| **M.S. Computer Science (Transfer)** | Georgia State University | GPA: 4.2 · Aug 2025 – Present |
+| **Graduate Coursework, Computer Science** | Georgia State University | Completed coursework in Computer Architecture, Advanced Machine Learning, Software Engineering, Algorithms, Operating Systems, and Programming Language Concepts before transferring to Georgia Tech OMSCS · Aug 2025 – 2026 |
 | **B.S. Biochemistry** | Kennesaw State University | Aug 2019 – May 2023 |
-
